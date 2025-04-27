@@ -1,0 +1,1 @@
+Conducted a literature review on ethical challenges in AI-driven healthcare, focusing on algorithmic bias, data privacy, and transparency. Produced a structured academic report using LaTeX, promoting ethical AI practices that prioritize fairness and patient welfare.
